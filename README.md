@@ -18,13 +18,13 @@ First you should configure the OpenGL and MySQL in your computer.(My device syst
 	How to implement the data interface.  
 
 ## PS:    
-	the database SQL is followed:  
+the database SQL is followed:  
 
-create database data_1;  
+	create database data_1;  
 
-create table location_table   
+	create table location_table   
 
-(  
+	(  
 	
   
  	location_time datetime(6) null,
@@ -38,7 +38,7 @@ create table location_table
   	flag          int         null,
 	experiment_id int         null,  
 	
-);
+	);
 
 
 
