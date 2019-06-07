@@ -3,19 +3,19 @@ Using OpenGL to draw two-dimensional position which plane coordinates that got f
 First you should configure the OpenGL and MySQL in your computer.(My device system is macOS Sierra 10.12.4,development tool is Xcode 8.3.3)  
 
 ### main.c:   
-	The main function of this project.  
+The main function of this project.  
 
 ### DatabaseFunction.h:   
-	Introduce the interface of the database.  
+Introduce the interface of the database.  
 
 ### DatabaseFunction.c:   
-	How to implement the data interface.  
+How to implement the data interface.  
 
 ### paint_location.h:  
-	Introduce the interface of OpenGL.  
+Introduce the interface of OpenGL.  
 
 ### paint_location.c:  
-	How to implement the data interface.  
+How to implement the data interface.  
 
 ## PS:    
 the database SQL is followed:  
