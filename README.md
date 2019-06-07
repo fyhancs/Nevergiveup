@@ -19,15 +19,24 @@ How to implement the data interface.
 
 PS:  
 the database SQL is followed:
+
 create database data_1;
+
 create table location_table 
+
 (
-  experiment_id int         null,
+	experiment_id int         null,
+  
   location_time datetime(6) null,
+  
   src_MAC       varchar(20) null,
+  
   location_x    double      null,
+  
   location_y    double      null,
+  
   flag          int         null
+	
 );
 
 
