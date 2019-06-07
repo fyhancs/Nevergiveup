@@ -3,7 +3,7 @@
 //  nevergiveup
 //
 //  Created by Feiyu Han on 2018/12/20.
-//  Copyright © 2018年 Freddy. All rights reserved.
+//  Copyright © 2018年 Feiyu Han. All rights reserved.
 //
 
 #include <stdio.h>
